@@ -1,0 +1,20 @@
+
+==> E:\Haritha\Arczenrick_Company\IEEE_XML\67693-11227034-NU\67693_11227045
+
+---------------------------------------------------------------------------------
+
+Error : 11227045_ft.xml: Line: 38:22: The 'rid' attribute has an invalid value according to its data type.
+
+Error : 11227045_ft.xml: Line: 45:22: The 'rid' attribute has an invalid value according to its data type.
+
+Error : 11227045_ft.xml: Line: 52:22: The 'rid' attribute has an invalid value according to its data type.
+
+Error : 11227045_ft.xml: Line: 59:22: The 'rid' attribute has an invalid value according to its data type.
+
+Error : 11227045_ft.xml: Line: 66:22: The 'rid' attribute has an invalid value according to its data type.
+
+Error : 11227045_ft.xml: Line: 92:2: The element 'kwd-group' has incomplete content. List of possible elements expected: 'label title kwd compound-kwd nested-kwd'.
+
+Error : 11227045_ft.xml: Line: 182:2: The element 'sec' has invalid child element 'inline-formula'. List of possible elements expected: 'address algorithm alternatives array boxed-text code fig graphic media preformat supplementary-material table-wrap disp-formula disp-formula-group callout p def-list list tex-math mml:math related-article related-object disp-quote speech statement verse-group sec patent-abstract bio-group ref-list sig-block'.
+
+Error : ftxml\11227045_ft.xml : The '*' character, hexadecimal value 0x2A, cannot be included in a name. Line 200, position 7.

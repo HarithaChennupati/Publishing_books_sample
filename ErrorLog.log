@@ -1,0 +1,165 @@
+
+==> E:\Haritha\Arczenrick_Company\IEEE_XML\67693-11227034-NU\67693_11227045
+---------------------------------------------------------------------------------
+
+Error : 67693_11227045 : Check '<surname>Maksimovi&#x0107</surname>' for wrong values.
+
+Error : 67693_11227045 : '<uri...' has attribute '<uri content-type="url">', please check.
+
+Error : 67693_11227045 : '<uri...' has attribute '<uri content-type="url">', please check.
+
+Error : 67693_11227045 : '<uri...' has attribute '<uri content-type="url">', please check.
+
+Error : 67693_11227045 : '<uri...' has attribute '<uri content-type="url">', please check.
+
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>S.</given-names> <surname>Mukherjee</surname></string-name>, <string-name><given-names>A.</given-names> <surname>Kumar</surname></string-name>, and <string-name><given-names>D.</given-names> <surname>Maksimovi&#x0107</surname>;</string-name></person-group>, &#x201C;<article-title>Efficiencyoptimized current-source resonant converter for usb-c power delivery</article-title>,</article-title>&#x201D; in <conf-date>2021</conf-date> IEEE Applied Power Electronics Conference and Exposition (APEC). IEEE, <conf-date>2021</conf-date>, pp. <fpage>500</fpage>&#x2013;<lpage>505</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>R. N.</given-names> <surname>Hasanah</surname></string-name>, <string-name><given-names>T.</given-names> <surname>Starr</surname></string-name>, <string-name><given-names>E.</given-names> <surname>Gazali</surname></string-name>, and <string-name><given-names>T.</given-names> <surname>Taufik</surname></string-name></person-group>, &#x201C;<article-title>Dc-dc converter for usb-c power adapter in residential dc electricity</article-title>,&#x201D; in <conf-date>2019</conf-date> IEEE Conference on Energy Conversion (CENCON). IEEE, <conf-date>2019</conf-date>, pp. <fpage>207</fpage>&#x2013;<lpage>212</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>S.</given-names> <surname>Simhadri</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Pong</surname></string-name>, and <string-name><given-names>V.</given-names> <surname>Prasad</surname></string-name></person-group>, &#x201C;<article-title>Usb-c/a charger with gan fet</article-title>,&#x201D; in <conf-date>2024</conf-date> 7th International Conference on Electrical Engineering and Green Energy. IEEE, <conf-date>2024</conf-date>, pp. <fpage>95</fpage>&#x2013;<lpage>99</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>T.</given-names> <surname>Xie</surname></string-name> and <string-name><given-names>H.-P.</given-names> <surname>Le</surname></string-name></person-group>, &#x201C;<article-title>A zero-voltage-switching 3-level buck converter achieving 30 &#x0025; loss reduction at light load for usb-c charger applications</article-title>,&#x201D; in <conf-date>2023</conf-date> IEEE Applied Power Electronics Conference and Exposition (APEC). IEEE, <conf-date>2023</conf-date>, pp. <fpage>932</fpage>&#x2013;<lpage>936</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>T.</given-names> <surname>Zhao</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Burgos</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Wen</surname></string-name>, <string-name><given-names>A.</given-names> <surname>McLean</surname></string-name>, and <string-name><given-names>R. F.</given-names> <surname>Mattos</surname></string-name></person-group>, &#x201C;<article-title>Hardware design considerations for a 100 w usb type-c power delivery in aircraft application</article-title>,&#x201D; in <conf-date>2023</conf-date> 22nd International Symposium on Power Electronics (Ee), vol. <volume>1</volume>. IEEE, <conf-date>2023</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>5</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>M. J.</given-names> <surname>Kasper</surname></string-name>, <string-name><given-names>J. A.</given-names> <surname>Anderson</surname></string-name>, <string-name><given-names>G.</given-names> <surname>Deboy</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Haider</surname></string-name>, and <string-name><given-names>J. W.</given-names> <surname>Kolar</surname></string-name></person-group>, &#x201C;<article-title>Next generation gan-based architectures: From 240 w usb-c adapters to 11 kw ev on-board chargers with ultra-high power density and wide output voltage range</article-title>,&#x201D; in <conf-name>PCIM Europe 2022; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management. VDE</conf-name>, <conf-date>2022</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>10</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>W.-H.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>C.-H.</given-names> <surname>Lin</surname></string-name>, <string-name><given-names>K.-H.</given-names> <surname>Chen</surname></string-name>, <string-name><given-names>C.-L.</given-names> <surname>Wey</surname></string-name>, <string-name><given-names>Y.-H.</given-names> <surname>Lin</surname></string-name>, <string-name><given-names>J.R.</given-names> <surname>Lin</surname></string-name>, <string-name><given-names>T.-Y.</given-names> <surname>Tsai</surname></string-name>, and <string-name><given-names>J.-L.</given-names> <surname>Chen</surname></string-name></person-group>, &#x201C;<article-title>95&#x0025; light-load efficiency single-inductor dual-output dc-dc buck converter with synthesized waveform control technique for usb type-c</article-title>,&#x201D; in <conf-date>2016</conf-date> IEEE Symposium on VLSI Circuits. IEEE, <conf-date>2016</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>2</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>A. N.</given-names> <surname>Rao</surname></string-name> and <string-name><given-names>S.</given-names> <surname>Praveen</surname></string-name></person-group>, &#x201C;<article-title>Integrated design of a controller and compliant power supply for usb power delivery</article-title>,&#x201D; in <conf-date>2024</conf-date> 8 th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS). IEEE, <conf-date>2024</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>5</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>D. Z.</given-names> <surname>Amirhosseini</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Sabzehgar</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>Rasouli</surname></string-name></person-group>, &#x201C;<article-title>Power management and optimization for a residential smart microgrid using stochastic methods</article-title>,&#x201D; in <conf-date>2018</conf-date> 9th IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG). IEEE, <conf-date>2018</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>E. C.</given-names> <surname>Shourov</surname></string-name>, <string-name><given-names>A.</given-names> <surname>Sajid</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Sabzehgar</surname></string-name>, and <string-name><given-names>Y. M.</given-names> <surname>Roshan</surname></string-name></person-group>, &#x201C;<article-title>A novel implementation of the state flow approach for maximum power point tracking of photovoltaic systems</article-title>,&#x201D; in <conf-date>2018</conf-date> IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG). IEEE, <conf-date>2018</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="periodical" publication-format="print"><person-group person-group-type="author"><string-name><given-names>A.</given-names> <surname>Sajid</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Sabzehgar</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Rasouli</surname></string-name>, and <string-name><given-names>P.</given-names> <surname>Fajri</surname></string-name></person-group>, &#x201C;<article-title>Control of interlinking bidirectional converter in ac/dc hybrid microgrid operating in stand-alone mode</article-title>,&#x201D; in <year>2019</year> IEEE Milan PowerTech. IEEE, <year>2019</year>, pp. <fpage>1</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="periodical" publication-format="print"><person-group person-group-type="author">I. MPS Industries, &#x201C;<article-title>The role of forward converters</article-title>,&#x201D; <year>2020</year>, accessed: <fpage>2024</fpage>&#x2013;<lpage>11</lpage>-24. [Online]. Available: <uri content-type="url">https://www.mpsind.com/blog/the-role-of-forward-converters/</uri></mixed-citation>'. Please Check.
+Error : 67693_11227045 : '<source' element missing in mixed citation '<mixed-citation publication-type="webpage" publication-format="print"><person-group person-group-type="author"><string-name><given-names>Stafford</given-names> <surname>Analogue Design</surname></string-name></person-group>, &#x201C;<article-title>Flyback dcm analysis</article-title>,&#x201D; <month>Jan</month> <year>2022</year>. [Online]. Available: <uri content-type="url">http://stades.co.uk/Flyback</uri></mixed-citation>'. Please Check.
+Error : 67693_11227045 : '11227045-fig-1-source.tif' file should be present on path 'E:\Haritha\Arczenrick_Company\IEEE_XML\67693-11227034-NU\67693_11227045\ftxml', please check.
+
+Error : 67693_11227045 : '11227045-fig-2-source.tif' file should be present on path 'E:\Haritha\Arczenrick_Company\IEEE_XML\67693-11227034-NU\67693_11227045\ftxml', please check.
+
+Error : 67693_11227045 : '11227045-fig-3-source.tif' file should be present on path 'E:\Haritha\Arczenrick_Company\IEEE_XML\67693-11227034-NU\67693_11227045\ftxml', please check.
+
+Error : 67693_11227045 : '11227045-fig-4-source.tif' file should be present on path 'E:\Haritha\Arczenrick_Company\IEEE_XML\67693-11227034-NU\67693_11227045\ftxml', please check.
+
+Error : 67693_11227045 : '11227045-fig-5-source.tif' file should be present on path 'E:\Haritha\Arczenrick_Company\IEEE_XML\67693-11227034-NU\67693_11227045\ftxml', please check.
+
+Error : 67693_11227045 : '11227045-fig-6-source.tif' file should be present on path 'E:\Haritha\Arczenrick_Company\IEEE_XML\67693-11227034-NU\67693_11227045\ftxml', please check.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 1 ==> <ref id="ref1"> [</article-title>&#x201D; IEEE Applied Power Electronics Conference and Exposition (APEC). IEEE]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 2 ==> <ref id="ref2"> [IEEE Conference on Energy Conversion (CENCON). IEEE]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 3 ==> <ref id="ref3"> [7th International Conference on Electrical Engineering and Green Energy. IEEE]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 4 ==> <ref id="ref4"> [99449960]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 5 ==> <ref id="ref5"> [IEEE Applied Power Electronics Conference and Exposition (APEC). IEEE]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 6 ==> <ref id="ref6"> [22nd International Symposium on Power Electronics (Ee), vol. IEEE]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 8 ==> <ref id="ref8"> [IEEE Symposium on VLSI Circuits. IEEE]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 9 ==> <ref id="ref9"> [8 th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS). IEEE]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 10 ==> <ref id="ref10"> [9th IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG). IEEE]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 11 ==> <ref id="ref11"> [IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG). IEEE]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 13 ==> <ref id="ref13"> [IEEE Milan PowerTech. IEEE]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 15 ==> <ref id="ref15"> [I. MPS Industries,  accessed: -24. [Online]. Available:]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 16 ==> <ref id="ref16"> [Coilcraft,  accessed: -24. [Online]. Available:]. Please Check'.
+
+Error : 67693_11227045 : Un-tagged content at ref-seq :: 17 ==> <ref id="ref17"> [Technical Article,  Available:]. Please Check'.
+
+Error : 67693_11227045 : Missing element '<institution-wrap' in '<aff id="aff1"><institution content-type="department">Department of Electrical &#x0026; Computer Engineering \\ San Diego State University \\ San Diego</institution>, CA, 92182-1309, USA \\ Email: <email>rsabzehgar@sdsu.edu</email></aff>', please check.
+
+Error : 67693_11227045 : Missing element '<institution-wrap' in '<aff id="aff3"><institution content-type="department">Department of Electrical &#x0026; Biomedical Engineering \\ University of Nevada Reno \\ Reno</institution>, NV 89557, USA \\ Email: <email>pfajri@unr.edu</email></aff>', please check.
+
+Error : 67693_11227045 : Wrong @id/@rid format, should have only [a-zA-Z.-] : 'rid="aff1*"', please check.
+
+Error : 67693_11227045 : Wrong @id/@rid format, should have only [a-zA-Z.-] : 'rid="aff1*"', please check.
+
+Error : 67693_11227045 : Wrong @id/@rid format, should have only [a-zA-Z.-] : 'rid="aff1*"', please check.
+
+Error : 67693_11227045 : Wrong @id/@rid format, should have only [a-zA-Z.-] : 'rid="aff1*"', please check.
+
+Error : 67693_11227045 : Wrong @id/@rid format, should have only [a-zA-Z.-] : 'rid="aff1*"', please check.
+
+Error : 67693_11227045 : Please verify this content against source 'n<inline-formula'
+
+Error : 67693_11227045 : '2' <conf-date> are not allowed in single reference s/b one time only 'id="ref1"'
+
+Error : 67693_11227045 : '2' <conf-date> are not allowed in single reference s/b one time only 'id="ref2"'
+
+Error : 67693_11227045 : '2' <conf-date> are not allowed in single reference s/b one time only 'id="ref3"'
+
+Error : 67693_11227045 : '2' <conf-date> are not allowed in single reference s/b one time only 'id="ref5"'
+
+Error : 67693_11227045 : '2' <conf-date> are not allowed in single reference s/b one time only 'id="ref6"'
+
+Error : 67693_11227045 : '2' <conf-date> are not allowed in single reference s/b one time only 'id="ref8"'
+
+Error : 67693_11227045 : '2' <conf-date> are not allowed in single reference s/b one time only 'id="ref9"'
+
+Error : 67693_11227045 : '2' <conf-date> are not allowed in single reference s/b one time only 'id="ref10"'
+
+Error : 67693_11227045 : '2' <conf-date> are not allowed in single reference s/b one time only 'id="ref11"'
+
+Error : 67693_11227045 : '<fpage>' should not be blank '<fpage></fpage>'.
+
+Error : 67693_11227045 : '<lpage>' should not be blank '<lpage></lpage>'.
+
+Error : 67693_11227045 : Wrong <surname> captured '<surname>Le</surname>', please check.
+
+Error : 67693_11227045 :  Untagged content found after/before 'string-name'. Please check ';</string-name>'.
+
+Error : 67693_11227045 : Duplicate element found with mixed-citation, Please check '<ref id="ref1">'.
+
+Error : 67693_11227045 : Duplicate element found with mixed-citation, Please check '<ref id="ref2">'.
+
+Error : 67693_11227045 : Duplicate element found with mixed-citation, Please check '<ref id="ref3">'.
+
+Error : 67693_11227045 : Duplicate element found with mixed-citation, Please check '<ref id="ref5">'.
+
+Error : 67693_11227045 : Duplicate element found with mixed-citation, Please check '<ref id="ref6">'.
+
+Error : 67693_11227045 : Duplicate element found with mixed-citation, Please check '<ref id="ref8">'.
+
+Error : 67693_11227045 : Duplicate element found with mixed-citation, Please check '<ref id="ref9">'.
+
+Error : 67693_11227045 : Duplicate element found with mixed-citation, Please check '<ref id="ref10">'.
+
+Error : 67693_11227045 : Duplicate element found with mixed-citation, Please check '<ref id="ref11">'.
+
+Error : 67693_11227045 : Duplicate element found with mixed-citation, Please check '<ref id="ref13">'.
+
+**********************************************
+E:\Haritha\Arczenrick_Company\IEEE_XML\67693-11227034-NU\67693_11227045\ftxml\11227045_ft.xml
+-----------------------------------------------------------------------
+
+Error : Ln : 204 : Missing Attribute "specific-use="IEEE" : '<source>IEEE Transactions on Power Electronics</source>'
+
+Error : Ln : 216 : Space found after opening element : <person-group person-group-type="author"> 
+
+Error : Wrong copyright value '<copyright-statement>979-8-3315-5632-7 &#x00A9; 2025 IEEE. All rights reserved, including rights for text and data mining, and training of artificial intelligence and similar technologies. Personal use is permitted, but republication/redistribution requires IEEE permission. See <u', please check.
+
+Error : Wrong entity format '&#x0107</surname', please check.
+
+Error : Wrong paragraph formatting '</fig></p>
+<p>p', please check.
+
+Error : Wrong paragraph formatting '</fig></p>
+<p>a', please check.
+
+Error : Wrong paragraph formatting '</disp-formula></p>
+<p>w', please check.
+
+Error : Wrong paragraph formatting '</disp-formula></p>
+<p>w', please check.
+
+Error : Image name : 11227045-fig-1-source.tif : called in xml file but does not exist in xml Folder
+
+Error : Image name : 11227045-fig-2-source.tif : called in xml file but does not exist in xml Folder
+
+Error : Image name : 11227045-fig-3-source.tif : called in xml file but does not exist in xml Folder
+
+Error : Image name : 11227045-fig-4-source.tif : called in xml file but does not exist in xml Folder
+
+Error : Image name : 11227045-fig-5-source.tif : called in xml file but does not exist in xml Folder
+
+Error : Image name : 11227045-fig-6-source.tif : called in xml file but does not exist in xml Folder
+-----------------------------------------------------------------------

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE conf-article PUBLIC "-//IEEE//IEEE Conferences JATS-based DTD v2.0//EN" "conferences.dtd">
+<conf-article article-type="research" content-type="orig-research" dtd-version="2.0" open-access="no" xml:lang="eng" show-flag="show" peer-reviewed="yes" lifecycle="final" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!-- Article Processing Date: 12/01/2025 -->
+<!-- Vendor Name: Aptara -->
+<!-- IEEE XML JATS Tagging Guidelines version: 20241024 -->
+<!-- IEEE Math Coding Requirements and Guidelines for Vendors version: v2.4 -->
+<conf-front>
+<conf-proc-meta>
+<conf-proc-id conf-proc-id-type="conf-acronym">EE</conf-proc-id>
+<conf-proc-title-group>
+<conf-full-title>2025 23rd International Symposium on Power Electronics (Ee)</conf-full-title>
+<conf-normalized-title>Power Electronics (Ee), 2025 23rd International Symposium on</conf-normalized-title>
+</conf-proc-title-group>
+<volume>1</volume>
+<isbn publication-format="electronic">979-8-3315-5632-7</isbn>
+</conf-proc-meta>
+<conf-meta>
+<conf-name>2025 23rd International Symposium on Power Electronics (Ee)</conf-name>
+<conf-start iso-8601-date="2025-10-08"><day>08</day><month>10</month><year>2025</year></conf-start>
+<conf-end iso-8601-date="2025-10-10"><day>10</day><month>10</month><year>2025</year></conf-end>
+<conf-loc><city>NoviSad</city>, <country>Serbia</country></conf-loc>
+</conf-meta>
+<conf-article-meta>
+<article-id pub-id-type="doi">10.1109/Ee67693.2025.11227045</article-id>
+<xplore-article-id>11227045</xplore-article-id>
+<xplore-issue>11227034</xplore-issue>
+<xplore-pub-id>11227033</xplore-pub-id>
+<title-group>
+<article-title>Switch Mode Power Supply for Usb-C Power Delivery Applications</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" id="contrib1">
+<name-alternatives>
+<string-name specific-use="display"><given-names>J.</given-names> <surname>Curley</surname></string-name>
+<string-name specific-use="index"><given-names>J.</given-names> <surname>Curley</surname></string-name>
+</name-alternatives>
+<xref ref-type="aff" rid="aff1*"/>
+</contrib>
+<contrib contrib-type="author" id="contrib2">
+<name-alternatives>
+<string-name specific-use="display"><given-names>B.</given-names> <surname>Swierczewski</surname></string-name>
+<string-name specific-use="index"><given-names>B.</given-names> <surname>Swierczewski</surname></string-name>
+</name-alternatives>
+<xref ref-type="aff" rid="aff1*"/>
+</contrib>
+<contrib contrib-type="author" id="contrib3">
+<name-alternatives>
+<string-name specific-use="display"><given-names>R.</given-names> <surname>Sabzehgar</surname></string-name>
+<string-name specific-use="index"><given-names>R.</given-names> <surname>Sabzehgar</surname></string-name>
+</name-alternatives>
+<xref ref-type="aff" rid="aff1*"/>
+</contrib>
+<contrib contrib-type="author" id="contrib4">
+<name-alternatives>
+<string-name specific-use="display"><given-names>M.</given-names> <surname>Rasouli</surname></string-name>
+<string-name specific-use="index"><given-names>M.</given-names> <surname>Rasouli</surname></string-name>
+</name-alternatives>
+<xref ref-type="aff" rid="aff1*"/>
+</contrib>
+<contrib contrib-type="author" id="contrib5">
+<name-alternatives>
+<string-name specific-use="display"><given-names>P.</given-names> <surname>Fajri</surname></string-name>
+<string-name specific-use="index"><given-names>P.</given-names> <surname>Fajri</surname></string-name>
+</name-alternatives>
+<xref ref-type="aff" rid="aff1*"/>
+</contrib>
+</contrib-group>
+<aff id="aff1"><institution content-type="department">Department of Electrical &#x0026; Computer Engineering \\ San Diego State University \\ San Diego</institution>, CA, 92182-1309, USA \\ Email: <email>rsabzehgar@sdsu.edu</email></aff>
+<aff id="aff2">
+<institution-wrap>
+<institution content-type="institution">School of Electrical Engineering &#x0026; Computer Science \\ University of North Dakota \\ Grand Forks</institution>
+</institution-wrap>
+, ND, 58202-7165, USA \\ Email: <email>mohammad.rasouli@und.edu</email></aff>
+<aff id="aff3"><institution content-type="department">Department of Electrical &#x0026; Biomedical Engineering \\ University of Nevada Reno \\ Reno</institution>, NV 89557, USA \\ Email: <email>pfajri@unr.edu</email></aff>
+<pub-date date-type="cover" pub-type="print" iso-8601-date="2025-10-10"><day>10</day><month>Oct.</month><year>2025</year></pub-date>
+<fpage>***</fpage>
+<lpage>***</lpage>
+<permissions>
+<copyright-statement>979-8-3315-5632-7 &#x00A9; 2025 IEEE. All rights reserved, including rights for text and data mining, and training of artificial intelligence and similar technologies. Personal use is permitted, but republication/redistribution requires IEEE permission. See <uri>https://www.ieee.org/publications/rights/index.html</uri> for more information.</copyright-statement>
+<copyright-year>2025</copyright-year>
+<copyright-holder copyright-owner="IEEE"></copyright-holder>
+<license license-type="IEEE">
+<ali:license_ref></ali:license_ref>
+</license>
+</permissions>
+<self-uri content-type="xml">11227045_ft.xml</self-uri>
+<self-uri content-type="print">T13-6_06544.pdf</self-uri>
+<abstract xml:lang="en">
+<p>This work presents the design and implementation of a switch-mode power supply (SMPS) optimized for universal serial bus type-c (USB-C) charging applications, utilizing a flyback converter. The proposed design features an open-loop, variable pulse-width modulation (PWM) gate drive circuit implemented with discrete components on a compact two-layer printed circuit board (PCB) layout. Analytical modeling is employed to determine the appropriate duty cycle and transformer turns ratio. The paper outlines the complete design methodology, including theoretical analysis, simulation, and practical considerations associated with the selected converter topology. The system is designed to deliver a stable output voltage with low ripple and support load currents up to <inline-formula><tex-math notation="LaTeX">$3 A$</tex-math></inline-formula>, achieving standard power level of 30 W in compliance with USB-C power delivery (PD) requirements. The converter is modeled in MATLAB, and simulation results are presented to validate its performance, efficiency, and applicability to USB-C power delivery systems. The results highlight the feasibility of the proposed system as a cost-effective USBC power supply solution without the use of dedicated PD controller integrated circuits (ICs).</p>
+</abstract>
+<kwd-group/>
+<counts>
+<fig-count count="6"/>
+<table-count count="0"/>
+<equation-count count="5"/>
+<ref-count count="18"/>
+<page-count count="0"/>
+</counts>
+</conf-article-meta>
+</conf-front>
+<body>
+<sec id="sec1">
+<label>I.</label><title>Introduction</title>
+<p>With the widespread adoption of portable electronic devices such as smartphones, tablets, and laptops, USB-C power delivery (USB-C PD) has become the leading standard for fast, flexible, and universal charging. Supporting variable voltage levels from <inline-formula><tex-math notation="LaTeX">$5 V$</tex-math></inline-formula> to <inline-formula><tex-math notation="LaTeX">$20 V$</tex-math></inline-formula> and power delivery up to <inline-formula><tex-math notation="LaTeX">$100 W$</tex-math></inline-formula>, USB-C PD is suitable for a broad range of consumer and industrial applications <xref ref-type="bibr" rid="ref1">[1]</xref>&#x2013;<xref ref-type="bibr" rid="ref2"/><xref ref-type="bibr" rid="ref3"/><xref ref-type="bibr" rid="ref4"/><xref ref-type="bibr" rid="ref5"/><xref ref-type="bibr" rid="ref6">[6]</xref>. To enable efficient power regulation in such systems, compact and isolated switch-mode power supplies (SMPS) are essential. Among available topologies, the flyback converter offers an ideal balance of simplicity, cost-effectiveness, and reliable electrical</p>
+<p>979-8-3315-5632-7/25/$31.00 &#x00A9;2025 IEEE</p>
+<p>isolation, especially in low- to medium-power applications <xref ref-type="bibr" rid="ref7">[7]</xref>&#x2013;<xref ref-type="bibr" rid="ref8"/><xref ref-type="bibr" rid="ref9">[9]</xref>.</p>
+<p>The design principles outlined in this work align with recent advancements in energy management and solar systems <xref ref-type="bibr" rid="ref10">[10]</xref>, <xref ref-type="bibr" rid="ref11">[11]</xref>, electric vehicles <xref ref-type="bibr" rid="ref12">[12]</xref>, and AC/DC hybrid microgrids <xref ref-type="bibr" rid="ref13">[13]</xref>, <xref ref-type="bibr" rid="ref14">[14]</xref>. Techniques such as voltage and frequency regulation <xref ref-type="bibr" rid="ref12">[12]</xref>, and bidirectional power conversion <xref ref-type="bibr" rid="ref13">[13]</xref> have shaped the modeling and design strategy of the proposed system. These studies collectively emphasize the need for adaptable, efficient, and scalable power management systems, an approach reflected in the development of this USB-C charger.</p>
+<p>This paper presents the design and implementation of a flyback converter-based SMPS, tailored for USB-C charging applications. The flyback topology was selected for its ability to handle wide input voltage ranges and provide stable, isolated output voltages, which are crucial for ensuring compliance with USB-C PD specifications. In the proposed design, an AC wall outlet is converted to an intermediate DC voltage, which is then processed by the flyback converter to provide an isolated and regulated DC output via a USB-C interface.</p>
+<p>The primary contributions of this work are as follows: (i) an optimized flyback converter design tailored to meet USB-C PD compliance requirements; (ii) a variable PWM gate drive circuit implemented using discrete components, enabling openloop control without the need for dedicated USB-PD ICs; and (iii) a compact two-layer PCB layout that supports dynamic voltage output suitable for multidevice USB-C charging applications. In contrast to prior works <xref ref-type="bibr" rid="ref15">[15]</xref>, <xref ref-type="bibr" rid="ref16">[16]</xref>, which rely on integrated USB-PD controller ICs to negotiate power delivery
+<fig id="fig1" position="float" orientation="portrait">
+<label>Fig. 1:</label>
+<caption><p>Schematic of the utilized flyback converter with full-bridge diode rectifier.</p></caption>
+<graphic position="float" orientation="portrait" xlink:href="11227045-fig-1-source.tif"/>
+</fig></p>
+<p>profiles, the proposed design achieves adaptive output through a discrete PWM generator based on a 555 timer and passive regulation via a transformerbased flyback topology. This approach enables a cost-effective implementation well-suited for lowcost power banks and embedded USB-C chargers, while maintaining output voltage flexibility and electrical isolation.</p>
+<p>Simulation results demonstrate the converter&#x0027;s effectiveness in maintaining output voltage stability under variable load conditions, validating its suitability for modern USB-C power delivery. Moreover, the flyback-based architecture presents a promising path forward for integrating fast charging protocols in compact, consumer-facing products, while leveraging established design principles from broader power electronics research domains.</p>
+</sec>
+<sec id="sec2">
+<label>II.</label><title>Operating Principle and Circuit Analysis</title>
+<p><xref ref-type="fig" rid="fig1">Figure 1</xref> illustrates the schematic of the utilized system, which consists of a full-bridge diode rectifier followed by a flyback converter designed to provide an isolated and regulated DC output via a USB-C interface. The AC input is first rectified by the diode bridge to produce an unregulated DC voltage, which serves as the input to the flyback converter. This converter topology was selected due to its ability to efficiently step up or step down the voltage while maintaining galvanic isolation between the input and output, which is an essential feature for safety in USB-C charging applications.</p>
+<p>To evaluate the performance of the system, the flyback converter is designed using <inline-formula><tex-math notation="LaTeX">$45-45-10$</tex-math></inline-formula> design rule. The <inline-formula><tex-math notation="LaTeX">$45-45-10$</tex-math></inline-formula> rule is a practical design guideline for flyback converter transformer design, suggesting that 45 &#x0025; of the switching period be allocated to the primary switch ON time (energy storage), 45 &#x0025; to the secondary diode conduction time (energy transfer), and 10 &#x0025; as dead time or margin to allow for transformer core reset and ensure volt-second balance. This rule helps maintain a duty cycle below 50 &#x0025; for better efficiency and stability, prevents core saturation, and provides headroom for transient responses. While not a strict requirement, it&#x0027;s a useful starting point for optimizing transformer utilization and minimizing losses in flyback converter designs. This rule positions the converter&#x0027;s operation on the boundary between continuous conduction mode (CCM) and discontinuous conduction mode (DCM). Operating at this boundary helps to balance performance trade-offs. It does this by reducing peak currents compared to pure DCM. It also avoids maintaining continuous magnetizing current, reducing core losses <xref ref-type="bibr" rid="ref17">[17]</xref>.</p>
+<p>The flyback converter output voltage in CCM operation is given by
+<disp-formula><tex-math notation="LaTeX">\begin{equation*}
+V_{\text {out }}=\frac{N_{s}}{N_{p}} \cdot \frac{D}{1-D} \cdot V_{\text {in }}
+\end{equation*}</tex-math></disp-formula></p>
+<p>where <inline-formula><tex-math notation="LaTeX">$V_{\text {in }}$</tex-math></inline-formula> and <inline-formula><tex-math notation="LaTeX">$V_{\text {out }}$</tex-math></inline-formula> are the input and output voltages of the converter, respectively. Furthermore, <inline-formula><tex-math notation="LaTeX">$D$</tex-math></inline-formula> represents the duty cycle of the PWM signal from gate drive circuit. Also, <inline-formula><tex-math notation="LaTeX">$N_{p}$</tex-math></inline-formula> and <inline-formula><tex-math notation="LaTeX">$N_{s}$</tex-math></inline-formula> are the transformer&#x0027;s primary and secondary turns ratio of the flyback converter, respectively. The transformer turns ratio of the flyback converter is then defined as
+<disp-formula><tex-math notation="LaTeX">\begin{equation*}
+N=\frac{N_{p}}{N_{s}}
+\end{equation*}</tex-math></disp-formula></p>
+<p>In DCM operation, the output voltage depends on the energy transfer per cycle
+<disp-formula><tex-math notation="LaTeX">\begin{equation*}
+V_{o u t}=V_{i n} \cdot D \cdot \sqrt{\frac{R \cdot T_{s}}{2 \cdot L_{m}}}
+\end{equation*}</tex-math></disp-formula></p>
+<p>where <inline-formula><tex-math notation="LaTeX">$V_{i n}$</tex-math></inline-formula> is the input voltage to the flyback converter after AC to DC rectification, <inline-formula><tex-math notation="LaTeX">$D$</tex-math></inline-formula> represents the duty cycle of the PWM signal from gate drive circuit, <inline-formula><tex-math notation="LaTeX">$R$</tex-math></inline-formula> is the load resistance, <inline-formula><tex-math notation="LaTeX">$T_{s}$</tex-math></inline-formula> is the period of the switching cycle, and <inline-formula><tex-math notation="LaTeX">$L_{m}$</tex-math></inline-formula> is the self-magnetizing inductance of the transformer <xref ref-type="bibr" rid="ref18">[18]</xref>.</p>
+<p>The boundary condition between CCM and DCM occurs when the magnetizing current reaches zero at the end of the switching cycle
+<disp-formula><tex-math notation="LaTeX">\begin{equation*}
+I_{\text {boundary }}=\frac{V_{i n} \cdot D \cdot T_{s}}{2 L_{m}}
+\end{equation*}</tex-math></disp-formula></p>
+<p>Transformer current ripple is then approximated as
+<disp-formula><tex-math notation="LaTeX">\begin{equation*}
+\Delta I_{p r i}=\frac{V_{i n} \cdot D}{L_{m} \cdot f_{s}}
+\end{equation*}</tex-math></disp-formula></p>
+<p>These equations are used to guide the choice of duty cycle and turns ratio in the design process.</p>
+<p>As depicted in <xref ref-type="fig" rid="fig1">Fig. 1</xref>, the flyback stage includes a snubber circuit connected across the drain and source terminals of the main MOSFET switch. This snubber is designed to suppress high-voltage spikes caused by transformer leakage inductance during switching transitions. These voltage spikes, if left unchecked, could damage the MOSFET and reduce overall system reliability. By absorbing this excess energy, the snubber enhances the durability and operational stability of the converter, especially during transient conditions and high-frequency switching operations. Moreover, the inclusion of an appropriately sized snubber circuit contributes to thermal stability by distributing power dissipation across passive components rather than stressing the switching device. This thermal relief is crucial in compact USB-C charging applications where heat management is often a design constraint. The proper selection of snubber components based on transformer leakage inductance, switching frequency, and power level, ensures that the converter maintains high efficiency without compromising safety or longevity. Overall, the snubber circuit is a small but vital component that significantly improves the robustness and performance of the flyback converter stage.</p>
+<p>Furthermore, the transformer is designed with inverse polarity to facilitate proper energy transfer during the flyback phase. Specifically, the transformer&#x0027;s primary winding is oriented such that the positive side is referenced to ground, while the negative side is connected to the cathode of the secondary diode. This configuration ensures the correct polarity reversal needed to deliver energy to the output during the off-state of the switch. Additionally, a full-bridge diode rectifier is implemented on the AC input side to maximize power factor and provide consistent DC input voltage to the converter. This structural integration ensures that the converter is both efficient and capable of supporting USB-C power delivery levels, with regulated output voltages ranging from <inline-formula><tex-math notation="LaTeX">$5 V$</tex-math></inline-formula> to <inline-formula><tex-math notation="LaTeX">$20 V$</tex-math></inline-formula>.</p>
+</sec>
+<sec id="sec3">
+<label>III.</label><title>Simulation Studies</title>
+<p>The entire system, including the converter along with the rectifier, is then implemented in MATLAB. The converter&#x0027;s transformer turns ratio, <inline-formula><tex-math notation="LaTeX">$N$</tex-math></inline-formula>, was adjusted to 0.29 to provide the required output voltage of 20 V and current rating of <inline-formula><tex-math notation="LaTeX">$3 A$</tex-math></inline-formula> for a standard 30 W USB-C charger. The input voltage to the flyback converter, after AC to DC rectification, is 85 V rms. The switching period, <inline-formula><tex-math notation="LaTeX">$T_{s}$</tex-math></inline-formula> is <inline-formula><tex-math notation="LaTeX">$10 \mu ~\mathrm{s}$</tex-math></inline-formula> and the duty cycle, <inline-formula><tex-math notation="LaTeX">$D$</tex-math></inline-formula>, is set to 0.38. These values allow us to achieve the desired 5 V to 20 V output voltage range by varying the output load resistance, <inline-formula><tex-math notation="LaTeX">$R$</tex-math></inline-formula>, from just under 1&#x2126; to just over 3&#x2126;.</p>
+<p>In order to create the required PWM block of the converter, a gate drive circuit is implemented. A block diagram of the designed gate drive circuit is illustrated in <xref ref-type="fig" rid="fig2">Fig. 2</xref>. As shown in this figure, the output of the full bridge rectifier is fed into a 12 V voltage regulator, which steps down the rectified voltage to power a 555 timer and gate driver IC. The 555 timer outputs a PWM, which is then fed into the gate driver IC to increase the current output before entering the MOSFET gate. For the 555 timer to output a PWM waveform with duty cycle <inline-formula><tex-math notation="LaTeX">$D$</tex-math></inline-formula>, it must be connected in an Astable configuration.
+<fig id="fig2" position="float" orientation="portrait">
+<label>Fig. 2:</label>
+<caption><p>The block diagram of MOSFET&#x0027;s gate drive circuit.</p></caption>
+<graphic position="float" orientation="portrait" xlink:href="11227045-fig-2-source.tif"/>
+</fig></p>
+<p><xref ref-type="fig" rid="fig3">Figures 3</xref> and <xref ref-type="fig" rid="fig4">4</xref> depict the output voltage and output current, respectively, of the flyback converter under varying load conditions, for two output voltage levels of 5 V and 20 V. From these figures, it is evident that the designed converter provides the desired 5 V to 20 V output voltage range for USB-C devices. The 5 V output occurs when the load resistance is 1&#x2126;. Under these conditions, the output current settles at <inline-formula><tex-math notation="LaTeX">$3 A$</tex-math></inline-formula> providing output power of <inline-formula><tex-math notation="LaTeX">$15 W$</tex-math></inline-formula>. The <inline-formula><tex-math notation="LaTeX">$20 V$</tex-math></inline-formula> output occurs when the load resistance is 3&#x2126; and here, the output current settles at 1.5 A. The 5 V to 20 V output voltage range results in a output current range of <inline-formula><tex-math notation="LaTeX">$3 A$</tex-math></inline-formula> to <inline-formula><tex-math notation="LaTeX">$1.5 A$</tex-math></inline-formula>, respectively. This gives the system a power output range of <inline-formula><tex-math notation="LaTeX">$15 W$</tex-math></inline-formula> to 30 W within the typical output voltage range of <inline-formula><tex-math notation="LaTeX">$5 V$</tex-math></inline-formula> to <inline-formula><tex-math notation="LaTeX">$20 V$</tex-math></inline-formula>.</p>
+<p><xref ref-type="fig" rid="fig5">Figure 5</xref> shows current waveforms including magnetization current, MOSFET current, diode current, and load current of the designed flyback converter. As illustrated in this figure, the converter&#x0027;s load current is maintained at an average current of <inline-formula><tex-math notation="LaTeX">$2.6 A$</tex-math></inline-formula> with <inline-formula><tex-math notation="LaTeX">$0.1 A$</tex-math></inline-formula> ripple, satisfying the current demand for USB-C applications thanks to the output capacitor sizing and appropriate transformer design.</p>
+<p>Regarding performance under varying conditions, the system exhibits good resilience to input voltage fluctuations originating from the rectifier. The simulation results show that the output remains well regulated due to the inherent isolation that is fundamental to the topology of the flyback converter circuit. However, it is also observed that highfrequency switching introduces effects from parasitic components. Parasitic capacitance and leakage inductance lead to overshoots in voltage waveforms
+<fig id="fig3" position="float" orientation="portrait">
+<label>Fig. 3:</label>
+<caption><p>Output voltage waveform of the flyback converter: (a) at 5 V, (b) at 20 V.</p></caption>
+<graphic position="float" orientation="portrait" xlink:href="11227045-fig-3-source.tif"/>
+</fig>
+<fig id="fig4" position="float" orientation="portrait">
+<label>Fig. 4:</label>
+<caption><p>Output current waveform of the flyback converter: (a) at 5 V providing 3 A of output current, (b) at 20 V providing 1.5 A of output current.</p></caption>
+<graphic position="float" orientation="portrait" xlink:href="11227045-fig-4-source.tif"/>
+</fig>
+<fig id="fig5" position="float" orientation="portrait">
+<label>Fig. 5:</label>
+<caption><p>Current waveforms including magnetization current, MOSFET current, diode current, and load current shown from top to bottom, respectively.</p></caption>
+<graphic position="float" orientation="portrait" xlink:href="11227045-fig-5-source.tif"/>
+</fig></p>
+<p>and contribute to switching losses. These effects are mitigated by careful component selection such as switches with low output capacitance and transformers with low leakage inductance as well as robust snubber circuit design.</p>
+</sec>
+<sec id="sec4">
+<label>IV.</label><title>PCB Design</title>
+<p>To facilitate the experimental studies, the printed circuit board (PCB) of the utilized flyback converter and its corresponding gate drive circuitry is designed using KiCad version 7.0, which is an opensource EDA tool.</p>
+<p>For PWM generation, the LM555 timer IC is selected due to its reliability and ease of integration. The PWM signal is amplified and buffered using a TC4420 high-speed MOSFET driver, which offers robust performance in switching applications. To supply the necessary 12 V operating voltage to both the timer and driver ICs, a ZXTR2012K voltage regulator is implemented.</p>
+<p>The primary switching element is an MCT04N15TP N-channel MOSFET, selected for its high drainsource voltage, <inline-formula><tex-math notation="LaTeX">$V_{D S&lt;}$</tex-math></inline-formula>, rating of 150 V, which ensures reliable operation under transient conditions and protects against voltage spikes induced by transformer leakage inductance. A T93YA502JT20 trimmer potentiometer with a resistance of <inline-formula><tex-math notation="LaTeX">$5 k \Omega$</tex-math></inline-formula> is incorporated for fine adjustment of control parameters. The selected flyback transformer, model 750312723, supports a wide primary input voltage range of</p>
+<inline-formula><tex-math notation="LaTeX">$85-265 ~\mathrm{V}$</tex-math></inline-formula>, and a maximum switching frequency of 130 kHz, making it suitable for compact, highefficiency power conversion in USB-C charging applications.
+<p>The designed PCB layout and its 3D view are illustrated in <xref ref-type="fig" rid="fig6">Fig. 6</xref>. The design features a compact, two-layer board with approximate dimensions of 41.5 inches. For the AC input interface, an IEC320C14 through-hole receptacle is employed, while a JST connector is used for the DC output to ensure secure and reliable connections. To accommodate higher current levels on the AC input side, <inline-formula><tex-math notation="LaTeX">$3 m m$</tex-math></inline-formula> wide copper traces are utilized. In contrast, the traces associated with the gate drive circuitry are designed with a width of 1 mm, sufficient for the lower current levels in that section. Both layers of the PCB were filled with ground planes to minimize impedance, enhance signal integrity, reduce electromagnetic interference (EMI), and improve thermal dissipation throughout the board. Experimental studies using the designed PCB are planned as part of future work, and the results will be disseminated in future IEEE publications.
+<fig id="fig6" position="float" orientation="portrait">
+<label>Fig. 6:</label>
+<caption><p>Switch mode power supply PCB layout: (a) trace view of the PCB layout, (b) 3D view of the PCB layout.</p></caption>
+<graphic position="float" orientation="portrait" xlink:href="11227045-fig-6-source.tif"/>
+</fig></p>
+</sec>
+<sec id="sec5">
+<label>V.</label><title>Conclusion</title>
+<p>This work involved the design and simulation of a flyback converter tailored for a USB-C power bank charging application. The design methodology was carried out using MATLAB Simulink to model, simulate, and evaluate the performance of the converter under a range of operating conditions. Key considerations such as voltage regulation, electrical isolation, and component selection were addressed to ensure compliance with USB-C PD standards.</p>
+<p>To enhance the performance and stability of the converter, a full-bridge rectifier was integrated at the input stage. The modulation of the duty cycle played a critical role in maintaining a stable output voltage across a broad range suitable for various USB-C compatible devices. By carefully selecting and tuning the transformer turns ratio and other circuit parameters, the system was optimized for both efficiency and performance.</p>
+<p>The simulation results validate the converter&#x0027;s ability to maintain reliable output regulation and demonstrate the feasibility of the proposed design for real-world USB-C PD applications. The converter consistently delivers power across a range of duty cycles, with output voltages spanning approximately 5 V to 20 V and corresponding current levels up to <inline-formula><tex-math notation="LaTeX">$3 A$</tex-math></inline-formula>. The dynamic response of the system confirms its suitability for USB-C PD applications, where connected devices request varying voltage and current profiles.</p>
+<p>Future work will focus on incorporating closedloop feedback control using low-cost microcontrollers to support full USB-PD protocol compliance, enhance dynamic load response, and enable experimental validation through hardware implementation on a custom-designed PCB.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title*>References</title>
+<ref id="ref1"><label>[1]</label> <mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>S.</given-names> <surname>Mukherjee</surname></string-name>, <string-name><given-names>A.</given-names> <surname>Kumar</surname></string-name>, and <string-name><given-names>D.</given-names> <surname>Maksimovi&#x0107</surname>;</string-name></person-group>, &#x201C;<article-title>Efficiencyoptimized current-source resonant converter for usb-c power delivery</article-title>,</article-title>&#x201D; in <conf-date>2021</conf-date> IEEE Applied Power Electronics Conference and Exposition (APEC). IEEE, <conf-date>2021</conf-date>, pp. <fpage>500</fpage>&#x2013;<lpage>505</lpage>.</mixed-citation></ref>
+<ref id="ref2"><label>[2]</label> <mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>R. N.</given-names> <surname>Hasanah</surname></string-name>, <string-name><given-names>T.</given-names> <surname>Starr</surname></string-name>, <string-name><given-names>E.</given-names> <surname>Gazali</surname></string-name>, and <string-name><given-names>T.</given-names> <surname>Taufik</surname></string-name></person-group>, &#x201C;<article-title>Dc-dc converter for usb-c power adapter in residential dc electricity</article-title>,&#x201D; in <conf-date>2019</conf-date> IEEE Conference on Energy Conversion (CENCON). IEEE, <conf-date>2019</conf-date>, pp. <fpage>207</fpage>&#x2013;<lpage>212</lpage>.</mixed-citation></ref>
+<ref id="ref3"><label>[3]</label> <mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>S.</given-names> <surname>Simhadri</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Pong</surname></string-name>, and <string-name><given-names>V.</given-names> <surname>Prasad</surname></string-name></person-group>, &#x201C;<article-title>Usb-c/a charger with gan fet</article-title>,&#x201D; in <conf-date>2024</conf-date> 7th International Conference on Electrical Engineering and Green Energy. IEEE, <conf-date>2024</conf-date>, pp. <fpage>95</fpage>&#x2013;<lpage>99</lpage>.</mixed-citation></ref>
+<ref id="ref4"><label>[4]</label> <mixed-citation publication-type="periodical" publication-format="print"><person-group person-group-type="author"><string-name><given-names>J.</given-names> <surname>Hu</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Wen</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Burgos</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Fernandez-Mattos</surname></string-name>, and <string-name><given-names>A.</given-names> <surname>Mclean</surname></string-name></person-group>, &#x201C;<article-title>Design of a flying-capacitor-based voltage divider llc resonant converter for usb-c pd charger in aircraft applications</article-title>,&#x201D; <source>IEEE Transactions on Power Electronics</source>, vol. <volume>38</volume>, no. <issue>8</issue>, pp. 99449960, <year>2023</year>.</mixed-citation></ref>
+<ref id="ref5"><label>[5]</label> <mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>T.</given-names> <surname>Xie</surname></string-name> and <string-name><given-names>H.-P.</given-names> <surname>Le</surname></string-name></person-group>, &#x201C;<article-title>A zero-voltage-switching 3-level buck converter achieving 30 &#x0025; loss reduction at light load for usb-c charger applications</article-title>,&#x201D; in <conf-date>2023</conf-date> IEEE Applied Power Electronics Conference and Exposition (APEC). IEEE, <conf-date>2023</conf-date>, pp. <fpage>932</fpage>&#x2013;<lpage>936</lpage>.</mixed-citation></ref>
+<ref id="ref6"><label>[6]</label> <mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>T.</given-names> <surname>Zhao</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Burgos</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Wen</surname></string-name>, <string-name><given-names>A.</given-names> <surname>McLean</surname></string-name>, and <string-name><given-names>R. F.</given-names> <surname>Mattos</surname></string-name></person-group>, &#x201C;<article-title>Hardware design considerations for a 100 w usb type-c power delivery in aircraft application</article-title>,&#x201D; in <conf-date>2023</conf-date> 22nd International Symposium on Power Electronics (Ee), vol. <volume>1</volume>. IEEE, <conf-date>2023</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>5</lpage>.</mixed-citation></ref>
+<ref id="ref7"><label>[7]</label> <mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>M. J.</given-names> <surname>Kasper</surname></string-name>, <string-name><given-names>J. A.</given-names> <surname>Anderson</surname></string-name>, <string-name><given-names>G.</given-names> <surname>Deboy</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Haider</surname></string-name>, and <string-name><given-names>J. W.</given-names> <surname>Kolar</surname></string-name></person-group>, &#x201C;<article-title>Next generation gan-based architectures: From 240 w usb-c adapters to 11 kw ev on-board chargers with ultra-high power density and wide output voltage range</article-title>,&#x201D; in <conf-name>PCIM Europe 2022; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management. VDE</conf-name>, <conf-date>2022</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>10</lpage>.</mixed-citation></ref>
+<ref id="ref8"><label>[8]</label> <mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>W.-H.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>C.-H.</given-names> <surname>Lin</surname></string-name>, <string-name><given-names>K.-H.</given-names> <surname>Chen</surname></string-name>, <string-name><given-names>C.-L.</given-names> <surname>Wey</surname></string-name>, <string-name><given-names>Y.-H.</given-names> <surname>Lin</surname></string-name>, <string-name><given-names>J.R.</given-names> <surname>Lin</surname></string-name>, <string-name><given-names>T.-Y.</given-names> <surname>Tsai</surname></string-name>, and <string-name><given-names>J.-L.</given-names> <surname>Chen</surname></string-name></person-group>, &#x201C;<article-title>95&#x0025; light-load efficiency single-inductor dual-output dc-dc buck converter with synthesized waveform control technique for usb type-c</article-title>,&#x201D; in <conf-date>2016</conf-date> IEEE Symposium on VLSI Circuits. IEEE, <conf-date>2016</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>2</lpage>.</mixed-citation></ref>
+<ref id="ref9"><label>[9]</label> <mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>A. N.</given-names> <surname>Rao</surname></string-name> and <string-name><given-names>S.</given-names> <surname>Praveen</surname></string-name></person-group>, &#x201C;<article-title>Integrated design of a controller and compliant power supply for usb power delivery</article-title>,&#x201D; in <conf-date>2024</conf-date> 8 th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS). IEEE, <conf-date>2024</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>5</lpage>.</mixed-citation></ref>
+<ref id="ref10"><label>[10]</label> <mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>D. Z.</given-names> <surname>Amirhosseini</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Sabzehgar</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>Rasouli</surname></string-name></person-group>, &#x201C;<article-title>Power management and optimization for a residential smart microgrid using stochastic methods</article-title>,&#x201D; in <conf-date>2018</conf-date> 9th IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG). IEEE, <conf-date>2018</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation></ref>
+<ref id="ref11"><label>[11]</label> <mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name><given-names>E. C.</given-names> <surname>Shourov</surname></string-name>, <string-name><given-names>A.</given-names> <surname>Sajid</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Sabzehgar</surname></string-name>, and <string-name><given-names>Y. M.</given-names> <surname>Roshan</surname></string-name></person-group>, &#x201C;<article-title>A novel implementation of the state flow approach for maximum power point tracking of photovoltaic systems</article-title>,&#x201D; in <conf-date>2018</conf-date> IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG). IEEE, <conf-date>2018</conf-date>, pp. <fpage>1</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation></ref>
+<ref id="ref12"><label>[12]</label> <mixed-citation publication-type="periodical" publication-format="print"><person-group person-group-type="author"><string-name><given-names>M.</given-names> <surname>Latifi</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Sabzehgar</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Fajri</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>Rasouli</surname></string-name></person-group>, &#x201C;<article-title>A novel control strategy for the frequency and voltage regulation of distribution grids using electric vehicle batteries</article-title>,&#x201D; <source>Energies</source>, vol. <volume>14</volume>, no. <issue>5</issue>, p. <fpage>1435</fpage>, <year>2021</year>.</mixed-citation></ref>
+<ref id="ref13"><label>[13]</label> <mixed-citation publication-type="periodical" publication-format="print"><person-group person-group-type="author"><string-name><given-names>A.</given-names> <surname>Sajid</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Sabzehgar</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Rasouli</surname></string-name>, and <string-name><given-names>P.</given-names> <surname>Fajri</surname></string-name></person-group>, &#x201C;<article-title>Control of interlinking bidirectional converter in ac/dc hybrid microgrid operating in stand-alone mode</article-title>,&#x201D; in <year>2019</year> IEEE Milan PowerTech. IEEE, <year>2019</year>, pp. <fpage>1</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation></ref>
+<ref id="ref14"><label>[14]</label> <mixed-citation publication-type="periodical" publication-format="print"><person-group person-group-type="author"><string-name><given-names>R.</given-names> <surname>Sabzehgar</surname></string-name></person-group>, &#x201C;<article-title>Overview of technical challenges, available technologies and ongoing developments of ac/dc</article-title>,&#x201D; <source>Development and Integration of Microgrids</source>, p. <fpage>1</fpage>, <year>2017</year>.</mixed-citation></ref>
+<ref id="ref15"><label>[15]</label> <mixed-citation publication-type="periodical" publication-format="print"><person-group person-group-type="author">I. MPS Industries, &#x201C;<article-title>The role of forward converters</article-title>,&#x201D; <year>2020</year>, accessed: <fpage>2024</fpage>&#x2013;<lpage>11</lpage>-24. [Online]. Available: <uri content-type="url">https://www.mpsind.com/blog/the-role-of-forward-converters/</uri></mixed-citation></ref>
+<ref id="ref16"><label>[16]</label> <mixed-citation publication-type="periodical" publication-format="print"><person-group person-group-type="author"> Coilcraft</person-group>, &#x201C;<article-title>A guide to flyback transformers</article-title>,&#x201D; <source>n.d.</source>, accessed: <fpage>2024</fpage>&#x2013;<lpage>11</lpage>-24. [Online]. Available: <uri content-type="url">https://www.coilcraft.com/en-us/edu/series/a-guide-to-flyback-transformers/</uri></mixed-citation></ref>
+<ref id="ref17"><label>[17]</label> <mixed-citation publication-type="webpage" publication-format="print"><person-group person-group-type="author"><string-name><given-names>J.</given-names> <surname>Betten</surname></string-name></person-group>, &#x201C;<article-title>Designing a dcm flyback converter</article-title>,&#x201D; <source>Texas Instruments</source>, Technical Article, <year>2024</year>. [Online]. Available: <uri content-type="url">https://www.ti.com/lit/ta/ssztcw6/ssztcw6.pdf</uri></mixed-citation></ref>
+<ref id="ref18"><label>[18]</label> <mixed-citation publication-type="webpage" publication-format="print"><person-group person-group-type="author"><string-name><given-names>Stafford</given-names> <surname>Analogue Design</surname></string-name></person-group>, &#x201C;<article-title>Flyback dcm analysis</article-title>,&#x201D; <month>Jan</month> <year>2022</year>. [Online]. Available: <uri content-type="url">http://stades.co.uk/Flyback</uri></mixed-citation></ref>
+</ref-list>
+\page{***}
+</sec>
+</back>
+</conf-article>
